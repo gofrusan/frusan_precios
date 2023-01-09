@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610704530678",
+    "project_id": "frusan-precios",
+    "storage_bucket": "frusan-precios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610704530678:android:d0095c1bd790e55b4160d7",
+        "android_client_info": {
+          "package_name": "com.frusan.precios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610704530678-7klri5j9d90qt1arginqggnv2mravbrb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlgsBcItNCglatGRSbVvr2GLPQwxDU0N0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610704530678-7klri5j9d90qt1arginqggnv2mravbrb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
